@@ -1,4 +1,4 @@
-# E Commerce Backend
+# Tech Blog
 
 [![License](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/IPL-1.0)
 
